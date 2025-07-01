@@ -1,2 +1,2 @@
 # to-do-list
-Javascript/ course from freecodecamp
+Javascript/ course from freecodecamp.com
